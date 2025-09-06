@@ -1,0 +1,31 @@
+[
+    {
+        "PartNum": "XYZ789",
+        "PONum": "PO-EN-002",
+        "Supplier": "Smart Supply Co., Ltd.",
+        "SupplierLot": "LOT20250830-B",
+        "ReceivedQty": 250,
+        "References": "More references",
+        "InspecProg": "prog",
+        "InspecBy": "John",
+        "InspectedTimestamp": "12:34:56",
+        "InspectedQty": 240,
+        "PassedQty": 200,
+        "FailedQty": 10,
+        "Reason": "NOT GOOD",
+        "DMRNum": "DMR-002",
+        "Voided": "false",
+        "Inspected": "true",
+        "ApproveBy": "Tom",
+        "ApprovedTimestamp": "12:34:56",
+        "Accepted": "true",
+        "Rejected": "false",
+        "Comments": "",
+        "InspectionDtl": [
+            {
+                "PassedQty": 240
+            },
+            {}
+        ]
+    }
+]
